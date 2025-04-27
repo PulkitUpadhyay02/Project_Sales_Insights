@@ -1,4 +1,3 @@
-# Project_Sales_Insights
 ## Sales Insights Data Analysis Project
 
 ### Instructions to setup mysql on your local computer
